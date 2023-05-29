@@ -23,6 +23,7 @@ const Home = (props) => {
         src="/aaa/New Folder/hibiscus-fav2-200h.png"
         className="home-image2"
       />
+      <img src="/favicon-32x32-200h.png" alt="image" className="home-image3" />
     </div>
   )
 }
