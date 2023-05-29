@@ -1,0 +1,24 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-image {
+  width: 200px;
+  object-fit: cover;
+}
+.home-image1 {
+  width: 200px;
+  object-fit: cover;
+}
+.home-image2 {
+  width: 200px;
+  object-fit: cover;
+}
+.home-image3 {
+  width: 200px;
+  object-fit: cover;
+}
