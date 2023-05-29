@@ -17,6 +17,11 @@ const Home = (props) => {
         src="/aaa/screenshot%202023-04-28%20at%2011.04.05-200w.png"
         className="home-image"
       />
+      <img
+        src="/aaa/favicon-32x32-200h.png"
+        alt="image"
+        className="home-image1"
+      />
     </div>
   )
 }
